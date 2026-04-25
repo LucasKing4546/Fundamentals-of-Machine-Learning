@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# JetBrains IDE settings
+.idea/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
